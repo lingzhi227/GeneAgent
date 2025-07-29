@@ -6,7 +6,7 @@ This document organizes mathematical modeling and optimization methods for LLM a
 
 ---
 
-## 🎯 I. Research Positioning Recommendations: Demonstrating Mathematical Advantages in "LLM Behavior Modeling"
+## I. Research Positioning Recommendations: Demonstrating Mathematical Advantages in "LLM Behavior Modeling"
 
 | Model Level | Mathematical Intervention Approach | Example Research Questions |
 |-------------|-----------------------------------|----------------------------|
@@ -18,51 +18,51 @@ This document organizes mathematical modeling and optimization methods for LLM a
 
 ---
 
-## 📚 II. Research Directions to Pursue (Combining LLM Behavior + Computational Mathematics)
+## II. Research Directions to Pursue (Combining LLM Behavior + Computational Mathematics)
 
 ### **Topic 1: Constructing Mathematically Characterizable LLM Reasoning Path (Reasoning Trace) Models**
 
-- **🧠 Core**: Represent LLM reasoning traces as graph structures (Graph of Thought), studying their topological properties
+- **Core**: Represent LLM reasoning traces as graph structures (Graph of Thought), studying their topological properties
 - **📐 Mathematical Tools**: Graph theory + symbolic logic + MCTS (tree search) + path compression theory
-- **🚀 Feasible Outcomes**:
+- **Feasible Outcomes**:
   - Build reasoning trace evaluation metrics (e.g., path depth, branching causal indices)
   - Analyze "topological isomorphism" of reasoning behaviors across different models (GPT, Claude, Mistral)
 
 ### **Topic 2: Optimal Prompt Planning in Context Windows (Prompt Optimization under Constraints)**
 
-- **🧠 Objective**: Given context budget (e.g., 8192 tokens), how to optimally combine external knowledge and historical dialogue to enhance LLM performance?
+- **Objective**: Given context budget (e.g., 8192 tokens), how to optimally combine external knowledge and historical dialogue to enhance LLM performance?
 - **📐 Mathematical Foundation**: Knapsack Problem, Reinforcement Learning, information density function modeling
-- **🎯 Application Scenarios**:
+- **Application Scenarios**:
   - Multi-document question answering
   - "Attention focus" strategies in agent execution (Memory routing)
 
 ### **Topic 3: Explaining Domain-specific Language Compressibility from Semantic Space Perspective**
 
-- **🧠 Question**: Why can LLMs often achieve high accuracy with small training amounts on professional languages (such as medicine, genomics)?
-- **📐 Mathematical Perspective**: Manifold learning in embedding spaces (Manifold Hypothesis) + information bottleneck theory
-- **🔍 Innovation Points**:
+- **Question**: Why can LLMs often achieve high accuracy with small training amounts on professional languages (such as medicine, genomics)?
+- **Mathematical Perspective**: Manifold learning in embedding spaces (Manifold Hypothesis) + information bottleneck theory
+- **Innovation Points**:
   - Do professional languages naturally have more compact low-dimensional semantic manifolds?
   - Do LLMs automatically learn information compression pathways?
 
 ### **Topic 4: Action Value Modeling in Agentic LLMs (Planning & Decision in LLM Agents)**
 
-- **🧠 Description**: View LLM-driven agent behavior as POMDP, studying the mathematical foundation of its planning capabilities
-- **📐 Tools**: Policy gradient methods, variational inference, Bayesian planning
-- **🌐 Experimental Implementation**:
+- **Description**: View LLM-driven agent behavior as POMDP, studying the mathematical foundation of its planning capabilities
+- **Tools**: Policy gradient methods, variational inference, Bayesian planning
+- **Experimental Implementation**:
   - Planning behavior analysis in LLM+tool combinations (such as AutoGPT, LangGraph)
   - Experiment with your own mathematical agent tasks
 
 ### **Topic 5: Sparsity and Structural Modeling of Knowledge Integration Mechanisms in Multimodal LLMs**
 
-- **🧠 Background**: Multimodal LLMs need to integrate information from different modalities (language, images, tables, trajectories)
-- **📐 Mathematical Direction**: Sparse tensor encoding, cross-modal information flow modeling (such as graph attention networks)
-- **🌟 Objectives**:
+- **Background**: Multimodal LLMs need to integrate information from different modalities (language, images, tables, trajectories)
+- **Mathematical Direction**: Sparse tensor encoding, cross-modal information flow modeling (such as graph attention networks)
+- **Objectives**:
   - Provide a mathematical framework to measure "knowledge fusion efficiency"
   - Study from optimal encoding perspective why LLMs can "summarize complex pictures in one sentence"
 
 ---
 
-## 🧪 III. Topic Evaluation Metrics (PhD Dissertation Value)
+## III. Topic Evaluation Metrics (PhD Dissertation Value)
 
 | Dimension | Recommended Strategy |
 |-----------|---------------------|
@@ -90,7 +90,7 @@ This document organizes mathematical modeling and optimization methods for LLM a
 
 ---
 
-## 🧮 V. Theoretical Foundations of Mathematical Modeling
+## V. Theoretical Foundations of Mathematical Modeling
 
 ### 1. **Application of Graph Theory in Reasoning Path Modeling**
 
@@ -131,7 +131,7 @@ Sparse tensor encoding:
 
 ---
 
-## 📊 VI. Optimization Algorithm Design
+## VI. Optimization Algorithm Design
 
 ### 1. **Constrained Optimization Problems**
 
@@ -161,7 +161,7 @@ For hyperparameter tuning and model selection:
 
 ---
 
-## 🔬 VII. Experimental Validation Framework
+## VII. Experimental Validation Framework
 
 ### 1. **Benchmark Datasets**
 
@@ -186,7 +186,7 @@ Ensure credibility of experimental results:
 
 ---
 
-## 📈 VIII. Practical Application Scenarios
+## VIII. Practical Application Scenarios
 
 ### 1. **Applications in Genomics**
 
@@ -211,7 +211,7 @@ Combining patient data and models:
 
 ---
 
-## ✅ IX. Concluding Recommendations
+## IX. Concluding Recommendations
 
 According to the core viewpoint of the original answer:
 
@@ -229,4 +229,4 @@ According to the core viewpoint of the original answer:
 - Establish research networks with advisors and collaborators
 - Participate in relevant academic conferences and workshops
 
-This direction perfectly combines the theoretical advantages of computational mathematics with the cutting-edge needs of current AI technology, possessing great development potential and academic value.
+This direction perfectly combines the theoretical advantages of computational mathematics with the cutting-edge needs of current AI technology, possessing great development potential and academic value. 
